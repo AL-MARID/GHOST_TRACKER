@@ -23,11 +23,10 @@ python3 GHOST_TRACKER.py
 
 
 
-
 # GHOST TRACKER
 
 <p align="center">
-  <img src="images/bn.GHOST_TRACKER.jpg" width="800">
+  <img src="images/bn.GHOST_TRACKER.jpg" width="600">
 </p>
 
 ---
@@ -36,11 +35,11 @@ python3 GHOST_TRACKER.py
 
 <table align="center">
   <tr>
-    <td><img src="images/IP.jpg" width="250"></td>
-    <td><img src="images/Phone.jpg" width="250"></td>
+    <td><img src="images/IP.jpg" width="150"></td>
+    <td><img src="images/Phone.jpg" width="150"></td>
   </tr>
   <tr>
-    <td><img src="images/Username.jpg" width="250"></td>
-    <td><img src="images/Extra.jpg" width="250"></td>
+    <td><img src="images/Username.jpg" width="150"></td>
+    <td><img src="images/Extra.jpg" width="150"></td>
   </tr>
 </table>
